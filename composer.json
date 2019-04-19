@@ -1,0 +1,10 @@
+{
+    "name": "yuj/larapack-first",
+    "authors": [
+        {
+            "name": "yuj",
+            "email": "yuj@123.com"
+        }
+    ],
+    "require": {}
+}
